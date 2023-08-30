@@ -2,7 +2,7 @@
 
 **Journals**
 
-- Megalingam, R.K., Tanmayi, B., Reddy, G.M., Krishna, I.R.S., Sree, G.S., Pai, S.S. (2022). Optimized and Efficient Color Prediction algorithms using Mask R-CNN. Accepted by MDPI journal "Electronics" with an impact factor of 2.8 (Q2 Journal). 
+- Megalingam, R.K., Tanmayi, B., Reddy, G.M., Krishna, I.R.S., Sree, G.S., Pai, S.S. (2022). Optimized and Efficient Color Prediction algorithms using Mask R-CNN. Published by MDPI journal "Electronics" with an impact factor of 2.8 (Q2 Journal) [Link](https://www.mdpi.com/2079-9292/12/4/909). 
 
 **Research Papers**
 - Megalingam, R.K., Tanmayi, B., Reddy, G.M., Krishna, I.R.S., Sree, G.S., Pai, S.S. (2021). ROS-Based GUI Controlled Robot for Indoor Mapping and Navigation. In: Smys, S., Palanisamy, R., Rocha, Á., Beligiannis, G.N. (eds) Computer Networks and Inventive Communication Technologies. Lecture Notes on Data Engineering and Communications Technologies, vol 58. Springer, Singapore. [Link](https://link.springer.com/chapter/10.1007/978-981-15-9647-6_22).
